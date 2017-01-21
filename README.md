@@ -7,4 +7,5 @@ Estudo sobre Node.js gerados quando do estudo do Node.js através dos vídeos do
 Introdução aos módulos do Node.js e as diversas formas de usá-los/declará-los.
 
 <h4>Aula 3 - Global Objects</h4>
-Escopo global do Node.js e declaração de variáveis e objetos globais.
+- Escopo global do Node.js e declaração de variáveis e objetos globais. </br>
+- Utilizando um módulo específico para concentrar variáveis e/ou constantes.
