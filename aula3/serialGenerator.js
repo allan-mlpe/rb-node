@@ -1,5 +1,8 @@
+//utilizando o módulo config
+var config = require("./config");
+
 module.exports = {
 	generate : function() {
-		return Math.floor(Math.random() * max);
+		return Math.floor(Math.random() * config.max);
 	}
 }
