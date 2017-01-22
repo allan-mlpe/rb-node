@@ -9,3 +9,5 @@ Introdução aos módulos do Node.js e as diversas formas de usá-los/declará-l
 <h4>Aula 3 - Global Objects</h4>
 - Escopo global do Node.js e declaração de variáveis e objetos globais. </br>
 - Utilizando um módulo específico para concentrar variáveis e/ou constantes.
+<h4>Aula 4 - Timers</h4>
+- Conceito de timers: setTimeout, setInterval e setImmediate.
