@@ -13,3 +13,6 @@ Estudo sobre Node.js gerados quando do estudo do Node.js através dos vídeos do
 
 <h4>Aula 4 - Timers</h4>
 - Conhecendo os timers: setTimeout, setInterval e setImmediate.
+
+<h4>Aula 5 - Process</h4>
+- Variável global process e suas funcionalidades: pid, arch, platform, stdin, stdout, stderror, memoryUsage, etc.
