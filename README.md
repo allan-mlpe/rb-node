@@ -16,3 +16,7 @@ Estudo sobre Node.js gerados quando do estudo do Node.js através dos vídeos do
 
 <h4>Aula 5 - Process</h4>
 - Variável global process e suas funcionalidades: pid, arch, platform, stdin, stdout, stderror, memoryUsage, etc.
+
+<h4>Aula 6 - Core Modules - net</h4>
+- Iniciando com o módulo net, criando server e clients.
+- Construção de um mini-chat.
