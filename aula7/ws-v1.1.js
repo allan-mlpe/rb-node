@@ -1,4 +1,4 @@
-var router = require('./router');
+var router = require('./router-v1.1');
 var bd = require('./database');
 
 var app = router(3000); //instancia o server na porta 3000
