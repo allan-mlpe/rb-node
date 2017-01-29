@@ -20,3 +20,8 @@ Estudo sobre Node.js gerados quando do estudo do Node.js através dos vídeos do
 <h4>Aula 6 - Core Modules - net</h4>
 - Iniciando com o módulo net, criando server e clients.
 - Construção de um mini-chat.
+
+<h4>Aula 7 - Core Modules - http - Parte 1</h4>
+- Apresentação do módulo http do Node.
+- Criação de um servidor para web service que retorna um JSON.
+- Construção de um roteador simples para facilitar a manutenibilidade do código.
