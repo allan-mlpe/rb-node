@@ -1,5 +1,5 @@
 # rb-node
-Estudo sobre Node.js gerados quando do estudo do Node.js através dos vídeos do Rodrigo Branas.
+Este repositório contém os códigos fonte gerados quando do estudo do Node.js, seguindo os vídeos do Rodrigo Branas.
 
 <h4>Aula 1 - Introdução</h4>
 - Introdução sobre o Node.js, história e funcionamento geral.
