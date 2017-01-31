@@ -25,3 +25,7 @@ Estudo sobre Node.js gerados quando do estudo do Node.js através dos vídeos do
 - Apresentação do módulo http do Node.
 - Criação de um servidor para web service que retorna um JSON.
 - Construção de um roteador simples para facilitar a manutenibilidade do código.
+
+<h4>Aula 8 - Core Modules - http - Parte 2</h4>
+- Evolução do roteador, utilizando interceptadores.
+- Tratando as requisições OPTIONS e tratando o corpo das requisições.
